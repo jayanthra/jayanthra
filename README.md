@@ -1,16 +1,23 @@
-### Hi there 👋
+### 🙏 Namaste 
 
-<!--
-**jayanthra/jayanthra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://in.linkedin.com/in/jayanth-acharya-6689276b">
+  <img align="left" alt="Jayanth | LinkedIn" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/JayanthRAcharya">
+  <img align="left" alt="Jayanth | Twitter" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.strava.com/athletes/jayanthacharya">
+  <img align="left" alt="Jayanth | Strava" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/strava.svg" />
+</a>
+<a href="https://www.instagram.com/jayanthacharya/">
+  <img align="left" alt="Jayanth | Instagram" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software engineer experienced in building mobile apps and websites, Currently working as a front end developer.
+I like all things web 🕸️
+
+- 🔭 I’m currently working on Vue, Angular and React
+- 🌱 I’m continously learning Vue and React
+- 💬 Ask me about Rubiks cube 🧊, RC aeroplanes✈️ and coding 💻
+- 📫 Reach me on: [@jayanthracharya](https://twitter.com/JayanthRAcharya)
