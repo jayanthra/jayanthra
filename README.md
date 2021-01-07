@@ -14,6 +14,9 @@
 </a>
 
 
+<br />
+<br />
+
 I am a software engineer experienced in building mobile apps and websites, Currently working as a front end developer.
 I like all things web 🕸️
 
