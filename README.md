@@ -3,22 +3,24 @@
 <a href="https://in.linkedin.com/in/jayanth-acharya-6689276b">
   <img align="left" alt="Jayanth | LinkedIn" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/JayanthRAcharya">
-  <img align="left" alt="Jayanth | Twitter" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/twitter.svg" />
-</a>
 <a href="https://glitch.com/@jayanthra">
   <img align="left" alt="Jayanth | Glitch" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/glitch.svg" />
 </a>
 <a href="https://codepen.io/jayanthracharya">
   <img align="left" alt="Jayanth | Codepen" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/codepen.svg" />
 </a>
-<a href="https://www.strava.com/athletes/jayanthacharya">
-  <img align="left" alt="Jayanth | Strava" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/strava.svg" />
+<a href="https://dev.to/jayanthra">
+  <img align="left" alt="Jayanth | Instagram" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/dev.png" />
 </a>
 <a href="https://www.instagram.com/jayanthacharya/">
   <img align="left" alt="Jayanth | Instagram" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/instagram.svg" />
 </a>
-
+<a href="https://www.strava.com/athletes/jayanthacharya">
+  <img align="left" alt="Jayanth | Strava" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/strava.svg" />
+</a>
+<a href="https://twitter.com/JayanthRAcharya">
+  <img align="left" alt="Jayanth | Twitter" width="22px" src="https://raw.githubusercontent.com/jayanthra/jayanthra/master/assets/twitter.svg" />
+</a>
 
 <br />
 <br />
